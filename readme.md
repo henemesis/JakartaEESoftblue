@@ -11,5 +11,9 @@
 4) URL = Uniform Resource Locator. URI (Java) = Uniform Resource Interface.  
   
 
- ## Aula teórica 1.2  
+ ## Aula teórica 3.1  
+  
+**OBS:** Pulamos a Aula teórica do Módulo 2 por tratar de configurações. Tais Configurações já foram realizadas anteriormente. Caso dúvidas, retorne ao Módulo 2.  
+  
+
    
